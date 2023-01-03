@@ -1,7 +1,7 @@
 # Belly Button Biodiversity 
 This repository contains code to build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/ "Belly Button Biodiversity"), which catalogs the microbes that colonize human navels.
 
-Alt-Using Plotly:
+Using Plotly:
 ------
 
 1. Use the D3 library to read in samples.json.
@@ -22,7 +22,7 @@ Alt-Using Plotly:
 
 6. Update all of the plots any time that a new sample is selected.
 
-Alt-About the Data:
+About the Data:
 ------
 
 Hulcr, J. et al.(2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
