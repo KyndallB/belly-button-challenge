@@ -12,7 +12,7 @@ Using Plotly:
 
 3. Create a bubble chart that displays each sample.
 
-![a bubble chart that displays each sample](https://github.com/kyndallb/belly-button-challenge/Starter_Code/Images/bubble_chart.png "sample bubble chart")
+![a bubble chart that displays each sample]([https://github.com/kyndallb/belly-button-challenge/Starter_Code/Images/bubble_chart.png](https://github.com/KyndallB/belly-button-challenge/blob/main/Starter_Code/Images/bubble_chart.png) "sample bubble chart")
 
 4. Display the sample metadata, i.e., an individual's demographic information.
 
