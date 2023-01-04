@@ -4,7 +4,7 @@
  
 
 // Color palette for Gauge Chart
-var arrColorsG = ["#5899DA", "#E8743B", "#19A979", "#ED4A7B", "#945ECF", "#13A4B4", "#525DF4", "#BF399E", "#6C8893", "white"];
+var arrColorsG = ["Blue", "Purple", "Pink", "Red", "Orange", "OrangeYellow", "Yellow", "YellowGreen", "Green", "white"];
 
 
 // Use`d 3.json` to fetch the metadata for a sample
